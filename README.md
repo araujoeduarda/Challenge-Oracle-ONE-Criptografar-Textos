@@ -25,6 +25,9 @@ As "chaves" de criptografia que utilizei são:
 
 ![triade](https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png)
 
+📊 TRELLO
+
+https://trello.com/b/qLiL0AgF/alura-next-one-challenge-decodificador
 
 🎨 MODELO NO FIGMA
 
