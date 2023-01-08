@@ -1,5 +1,5 @@
  # Challenge Oracle ONE - Criptografar Textos
-                                          Decodificador de Texto - Alura Challenges Oracle ONE 📚
+                                        Decodificador de Texto - Alura Challenges Oracle ONE 📚
                                                    
 # **🥇BADGE DO DESAFIO**    
   
