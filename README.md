@@ -7,6 +7,7 @@
 Desenvolvi essa aplicação que criptografa textos em virtude de um challenge do programa Oracle ONE - Alura.
 
 ℹ️ INFORMAÇÃO
+
 Challenge ONE Sprint 01: Construa um decodificador de texto com Javascript 
 As "chaves" de criptografia que utilizei são:
 `A letra "e" é convertida para "enter"`
