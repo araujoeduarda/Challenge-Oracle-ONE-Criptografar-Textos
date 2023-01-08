@@ -2,9 +2,9 @@
                                         Decodificador de Texto - Alura Challenges Oracle ONE 📚
                                                    
 # **🥇BADGE DO DESAFIO**    
-  <h3 align="center">
-  ![image]({[BadgeURLHere](https://user-images.githubusercontent.com/113942221/211217605-17244fd8-bc1d-4636-8bd7-752ef1b522b4.png)})
-</h3>
+
+
+![badgeoracle](https://user-images.githubusercontent.com/113942221/211217982-96949eba-c20f-4b3c-9f69-f10380be369f.png)
 
 
 
