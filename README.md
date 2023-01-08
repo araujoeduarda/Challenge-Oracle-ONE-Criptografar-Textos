@@ -1,4 +1,4 @@
-                                                        # Challenge_Oracle_ONE_Criptografar_Textos
+ # Challenge Oracle ONE - Criptografar Textos
                                                  Decodificador de Texto - Alura Challenges Oracle ONE 📚
                                                    
    
@@ -6,7 +6,7 @@
                                               
 Desenvolvi essa aplicação que criptografa textos em virtude de um challenge do programa Oracle ONE - Alura.
 
-![araujoeduarda github io_Challenge_Oracle_ONE_Criptografar_Textos_ (1)](https://user-images.githubusercontent.com/113942221/211217122-a200446c-0ba2-48c3-a3f7-87f0a7eefdd6.png)
+                                ![araujoeduarda github io_Challenge_Oracle_ONE_Criptografar_Textos_ (1)](https://user-images.githubusercontent.com/113942221/211217122-a200446c-0ba2-48c3-a3f7-87f0a7eefdd6.png)
 
 
 # ℹ️ **INFORMAÇÃO**
@@ -38,16 +38,16 @@ Requisitos do Challenge:
 
 # 👩‍💻 **TECNOLOGIAS USADAS**
 
-![triade](https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png)
+                                            ![triade](https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png)
 
 
 
 # 📊 **TRELLO**
 
-https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one
+                                         https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one
 
 
 
 # 🎨 **MODELO NO FIGMA**
 
-https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0
+                                           https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0
