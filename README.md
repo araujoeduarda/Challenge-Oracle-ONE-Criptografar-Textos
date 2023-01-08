@@ -6,7 +6,8 @@
                                               
 Desenvolvi essa aplicação que criptografa textos em virtude de um challenge do programa Oracle ONE - Alura.
 
-[araujoeduarda github io_Challenge_Oracle_ONE_Criptografar_Textos_ (1)](https://user-images.githubusercontent.com/113942221/211217122-a200446c-0ba2-48c3-a3f7-87f0a7eefdd6.png)
+![araujoeduarda github io_Challenge_Oracle_ONE_Criptografar_Textos_ (1)](https://user-images.githubusercontent.com/113942221/211217324-084d3007-ddf9-40a6-8107-f8da7c83a61f.png)
+
 
 
 # ℹ️ **INFORMAÇÃO**
