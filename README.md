@@ -3,9 +3,8 @@
                                                    
 # **🥇BADGE DO DESAFIO**    
    
- ![badgeoracle](https://user-images.githubusercontent.com/113942221/211217498-089865de-4d1b-42f7-a305-c09a06416733.png)
+                         ![badgeoracle](https://user-images.githubusercontent.com/113942221/211217498-089865de-4d1b-42f7-a305-c09a06416733.png)                           
 
-   
 # 🔎 **SOBRE**
                                               
 Desenvolvi essa aplicação que criptografa textos em virtude de um challenge do programa Oracle ONE - Alura.
