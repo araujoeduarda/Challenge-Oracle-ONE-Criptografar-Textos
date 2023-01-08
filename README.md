@@ -45,10 +45,10 @@ Requisitos do Challenge:
 
 # 📊 **TRELLO**
 
-             https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one
+      https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one
 
 
 
 # 🎨 **MODELO NO FIGMA**
 
-             https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0
+      https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0
