@@ -20,3 +20,7 @@ As "chaves" de criptografia que utilizei são:
 - Funcionar apenas com letras minúsculas
 - Não devem ser utilizados letras com acentos nem caracteres especiais
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original. 
+
+👩‍💻 TECNOLOGIAS USADAS
+
+![triade](https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png)
