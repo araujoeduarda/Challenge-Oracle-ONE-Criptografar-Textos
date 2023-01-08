@@ -2,7 +2,7 @@
                                                  Decodificador de Texto - Alura Challenges Oracle ONE 📚
                                                    
    
-🔎 SOBRE
+🔎 **SOBRE**
                                               
 Desenvolvi essa aplicação que criptografa textos em virtude de um challenge do programa Oracle ONE - Alura.
 
@@ -25,7 +25,7 @@ As "chaves" de criptografia que utilizei são:
 
 `A letra "u" é convertida para "ufat"`
 
-**Requisitos do Challenge:**
+Requisitos do Challenge:
 
 - Funcionar apenas com letras minúsculas
 
@@ -36,18 +36,18 @@ As "chaves" de criptografia que utilizei são:
 
 
 
-👩‍💻 TECNOLOGIAS USADAS
+👩‍💻 **TECNOLOGIAS USADAS**
 
 ![triade](https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png)
 
 
 
-📊 TRELLO
+📊 **TRELLO**
 
 https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one
 
 
 
-🎨 MODELO NO FIGMA
+🎨 **MODELO NO FIGMA**
 
 https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0
