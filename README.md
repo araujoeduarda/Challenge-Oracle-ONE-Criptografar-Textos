@@ -27,7 +27,7 @@ As "chaves" de criptografia que utilizei são:
 
 📊 TRELLO
 
-https://trello.com/b/qLiL0AgF/alura-next-one-challenge-decodificador
+https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one
 
 🎨 MODELO NO FIGMA
 
