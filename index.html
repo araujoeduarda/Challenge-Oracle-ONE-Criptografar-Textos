@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Codificador - Alura/ONE</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <div class="caixa">
+      <img class="logo" src="LogoAl.svg" alt="Logo da Alura">
+    </div>
+
+  </header>
+
+  <main>
+    <div class="caixa">
+      <div class="criptografar">
+        <form class="criptografar_form">
+          <div class="area_de_input">
+            <textarea name="texto" id="texto" placeholder="Digite seu texto aqui:)"></textarea>
+            <div class="texto_info">
+              <div class="info">
+                <img src="exclamacao.svg">
+                <p id="advertencia">Apenas letras minúsculas e sem acento.</p>
+              </div>
+
+            </div>
+
+            <div class="botao">
+              <button id="encri" class="botao_criptografar" type="button">&#128373;Criptografar</button>
+              <button id="desencri" class="botao_descriptografar" type="button">&#128269;Descriptografar</button>
+            </div>
+          </div>
+        </form>
+
+        <div class="resultado">
+
+          <div class="caixa_resultado">
+            <div class="input_sem" id="noResuelto">
+              <div class="imagem_resultado">
+                <img src="LupaGuy.svg" alt="Personagem usando uma lupa para olhar um diamante ">
+              </div>
+              <p>Nenhuma mensagem encontrada</p>
+              <p>Digite um texto que você deseja criptografar ou descriptografar.</p>
+            </div>
+
+            <div class="input_resultado" id="resultado">
+              <textarea name="texto_resultado" id="textoResultado" disabled></textarea>
+              <button id="copiar" type="button">Copiar</button>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </main>
+
+  <footer>
+    <p class="copyright">© Copyright - Desenvolvido por <a href="https://github.com/araujoeduarda" target="_blank" rel="noopener noreferrer">Maria Eduarda :)</a></p>
+
+  </footer>
+  <script src="configs.js"></script>
+</body>
+
+</html>
