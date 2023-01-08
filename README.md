@@ -3,7 +3,8 @@
                                                    
 # **🥇BADGE DO DESAFIO**    
    
-   https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211139Prancheta_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station
+ ![badgeoracle](https://user-images.githubusercontent.com/113942221/211217498-089865de-4d1b-42f7-a305-c09a06416733.png)
+
    
 # 🔎 **SOBRE**
                                               
