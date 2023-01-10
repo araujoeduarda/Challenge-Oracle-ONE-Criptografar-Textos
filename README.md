@@ -51,8 +51,8 @@ Requisitos do Challenge:
 </p>
 
 # 🌎 **Página do Projeto**
-1. Clique Aqui -> [ Página do Codificador - Por Maria Eduarda Araujo](https://araujoeduarda.github.io/Challenge_Oracle_ONE_Criptografar_Textos/)
-2. Para codificar uma mensagem, digite-a no campo de digitação e clique no botão "criptografar".
+1. Clique Aqui -> [ Página do Codificador](https://araujoeduarda.github.io/Challenge_Oracle_ONE_Criptografar_Textos/)
+2. Para codificar uma mensagem, digite-a no campo de digitação e clique no botão "criptografar". Em seguida ela irá aparecer criptografada.
 3. Para decodificar a mensagem, copie e cole a mesma no campo de digitação e clique no botão "descriptografar".
 
 # 🎨 **Modelo no Figma**
