@@ -1,5 +1,5 @@
  # Challenge Oracle ONE 
-                                        Decodificador de Texto - Alura Challenges Oracle ONE 📚
+                                        Codificador de Texto - Alura Challenges Oracle ONE 📚
                                                    
 # 🥇 **Badge do Desafio**    
 
