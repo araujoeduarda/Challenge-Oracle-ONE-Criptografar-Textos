@@ -35,7 +35,7 @@ As "chaves" de criptografia que utilizei são:
 
 `A letra "u" é convertida para "ufat"`
 
-Requisitos do Challenge:
+Requisitos do Projeto:
 
 <li>Funcionar apenas com letras minúsculas</li>
 
