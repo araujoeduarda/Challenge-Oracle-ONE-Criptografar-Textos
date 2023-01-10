@@ -44,15 +44,16 @@ Requisitos do Challenge:
 <li>Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.</li>
 
 
-
-
 # 👩‍💻 **Tecnologias Usadas**
 
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png">
 </p>
 
-
+# 🌎 **Página do Projeto**
+1. Clique Aqui -> [ Página do Codificador - Por Maria Eduarda Araujo](https://araujoeduarda.github.io/Challenge_Oracle_ONE_Criptografar_Textos/)
+2. Para codificar uma mensagem, digite-a no campo de digitação e clique no botão "criptografar".
+3. Para decodificar a mensagem, copie e cole a mesma no campo de digitação e clique no botão "descriptografar".
 
 # 🎨 **Modelo no Figma**
       https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0)
