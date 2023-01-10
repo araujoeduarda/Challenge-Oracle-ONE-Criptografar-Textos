@@ -53,9 +53,6 @@ Requisitos do Challenge:
 </p>
 
 
-# 📊 **Trello**
-      https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one)
-
 
 # 🎨 **Modelo no Figma**
       https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0)
