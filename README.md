@@ -12,9 +12,15 @@
                                               
 <p><strong>Desenvolvi essa aplicação que criptografa textos em virtude de um challenge do programa Oracle ONE - Alura.</strong><p>
 
-<p align="center">
-<img width="800" height="600" src="https://user-images.githubusercontent.com/113942221/211217324-084d3007-ddf9-40a6-8107-f8da7c83a61f.png">
-</p>
+ <h3 align="center">
+    <img src="https://user-images.githubusercontent.com/113942221/211217324-084d3007-ddf9-40a6-8107-f8da7c83a61f.png" width="300" height="250" alt="Display Monitor">
+    <img src="https://user-images.githubusercontent.com/113942221/211676873-a8107277-3dfe-4196-8387-db8aff8dea42.png" width="300" height="250" alt="Display Tablet">
+    <img src="https://user-images.githubusercontent.com/113942221/211678866-48204cca-90ac-4ba2-955b-204d1abb4f25.png" width="300" height="250" alt="Display Mobile">
+</h3>
+
+
+
+
 
 
 
