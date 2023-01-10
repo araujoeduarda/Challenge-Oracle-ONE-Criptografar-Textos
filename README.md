@@ -54,7 +54,7 @@ Requisitos do Challenge:
 
 
 # 📊 **TRELLO**
-                               https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one)
+      https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one)
 
 
 # 🎨 **MODELO NO FIGMA**
