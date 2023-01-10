@@ -19,7 +19,7 @@
 
 
 
-# ℹ️ **INFORMAÇÃO**
+# ℹ️ **INFORMAÇÕES**
 
 Challenge ONE Sprint 01: Construa um decodificador de texto com Javascript 
 
