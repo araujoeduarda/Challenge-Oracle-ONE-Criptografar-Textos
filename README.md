@@ -56,7 +56,7 @@ Requisitos do Projeto:
 <img width="400" src="https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png">
 </p>
 
-# 🌎 **Página do Projeto**
+# 🌐 **Página do Projeto**
 1. Clique Aqui -> [ Página do Codificador](https://araujoeduarda.github.io/ChallengeONE-Codificador/)
 2. Para codificar uma mensagem, digite-a no campo de digitação e clique no botão "criptografar". Em seguida ela irá aparecer criptografada.
 3. Para decodificar a mensagem, copie e cole a mesma no campo de digitação e clique no botão "descriptografar".
