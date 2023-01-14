@@ -53,8 +53,9 @@ Requisitos do Projeto:
 # 👩‍💻 **Tecnologias Usadas**
 
 <p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png">
-</p>
+<img width="200" src="https://user-images.githubusercontent.com/113942221/212450260-6a89ee48-cb48-4f10-84a2-5ebe012aee68.png" alt="Html ícones criados por Freepik - Flaticon">
+<img width="200" src="https://user-images.githubusercontent.com/113942221/212450216-c16c1bdb-a374-43ac-b97c-153c8abc3edd.png" alt="Css ícones criados por Pixel perfect - Flaticon">
+<img width="200" src="https://user-images.githubusercontent.com/113942221/212450415-ffc71bb6-d7a2-4e7c-970e-522285a3d7e5.png" alt="Javascript ícones criados por Pixel perfect - Flaticon">
 
 # 🌐 **Página do Projeto**
 1. Clique Aqui -> [ Página do Codificador](https://araujoeduarda.github.io/ChallengeONE-Codificador/)
@@ -63,3 +64,6 @@ Requisitos do Projeto:
 
 # 🎨 **Modelo no Figma**
       https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=o7PHq876egM1fc2f-0)
+      
+      
+     
